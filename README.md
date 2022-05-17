@@ -4,7 +4,7 @@
     </head>
     <body >
        <h1>My Deep Link Test page</h1>
-       <p><a href="unitydl://atomicbeachgamesdominoes">Launch</a></p>
-       <p><a href="unitydl://atomicbeachgamesdominoes?PlayWithFriends">Launch with PlayWithFriends</a></p>
+       <p><a href="atomicbeachgamesdominoes://mylink">Launch</a></p>
+       <p><a href="atomicbeachgamesdominoes://mylink?PlayWithFriends">Launch with PlayWithFriends</a></p>
     </body>
 </html>
